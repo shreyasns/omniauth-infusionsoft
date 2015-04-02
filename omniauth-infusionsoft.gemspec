@@ -18,7 +18,7 @@ Gem::Specification.new do |gem|
   gem.required_rubygems_version = Gem::Requirement.new('>= 1.3.6')
 
   gem.add_runtime_dependency 'omniauth', '~> 1.0'
-  gem.add_runtime_dependency 'omniauth-oauth2', '~> 1.1'
+  gem.add_runtime_dependency 'omniauth-oauth2', '~> 1.0'
 
   gem.add_development_dependency 'bundler', '~> 1.5'
   gem.add_development_dependency 'rake',    '~> 10.3'
