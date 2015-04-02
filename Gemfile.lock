@@ -3,7 +3,7 @@ PATH
   specs:
     omniauth-infusionsoft (1.0.1)
       omniauth (~> 1.0)
-      omniauth-oauth2 (~> 1.1)
+      omniauth-oauth2 (~> 1.0)
 
 GEM
   remote: https://rubygems.org/
